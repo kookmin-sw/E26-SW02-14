@@ -5,7 +5,8 @@
 > 팀 슬로건을 작성합니다.
 
 ## 🖼️ 팀 포스터
-<img width="1122" height="1402" alt="포스터 완" src="https://github.com/user-attachments/assets/f1cb7c0a-3a75-4907-a243-32f25f7c6433" />
+<img width="1020" height="1402" alt="포스터 완" src="https://github.com/user-attachments/assets/16e7b9a8-65bc-4efa-b847-984bb70fddf6" />
+
 
 ***
 
